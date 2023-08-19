@@ -14,9 +14,10 @@
 https://github.com/rugendo/Week11Project.git
 
 # Procedure
-Take the Main, ReadRequest and SaaSAutomation xaml files and using the Uipath, click run. You will be prompted and click okay, then ALT+S to start the automation. Automation will stop automatically by the hotkey.
+Take the Main, ReadRequest and SaaSAutomation xaml files and using the Uipath, click run. You will be prompted and click okay, then ALT+S to start the automation. Automation will be stopped automatically by the hotkey.
 
-
+# License
+GPLv3. Copyright (c) {2023} {@rugendo}
 
 
 
